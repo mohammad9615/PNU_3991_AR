@@ -14,7 +14,7 @@
 
 ## Winter Semester Courses 1399/2020
 
-## دروس کارشناسی
+## دروس کارشناسی مهندسی کامپیوتر
 
 [1115157_01   نظريه زبانهاوماشين ها ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/Theory-of-Languages-and-Machines)
 <br>
