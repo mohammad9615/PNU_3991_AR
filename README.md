@@ -6,7 +6,7 @@
 - [github](https://github.com/mohammad9615/)
 - [PNU_3991_AR](https://github.com/mohammad9615/PNU_3991_AR)
 - [resume](https://mohammad9615.github.io/)
-- [SOP](https://SOP) 
+- [SOP](https://mohammad9615.github.io/SOP/) 
 - [javascript Certificate](js.pdf)
 - [HTML Certificate](html.pdf)
   
